@@ -1,0 +1,9 @@
+Tapulse
+com.Tapsulecomp.Tapulse
+alias: tapulse
+password: tapulse
+alias-password: tapulse
+
+
+https://www.figma.com/design/G1c6JG6QkY6ZS9D0LfmVDS/Untitled?node-id=92-338&t=CxXm0KszTRO7FgfV-0
+https://docs.google.com/document/d/1ZycDKoKKLjy33xOjh4MRJvraPQAXzGlYZWW59M2nol0/edit?usp=sharing
