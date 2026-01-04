@@ -1437,8 +1437,8 @@ MonoBehaviour:
   x: {x: 0.01, y: 0.01, z: 0.01}
   scorte: {fileID: 185519784}
   secundomer: {fileID: 1051707130}
-  correctSound: {fileID: 0}
-  incorrectSound: {fileID: 0}
+  correctSound: {fileID: 1905237095}
+  incorrectSound: {fileID: 1332488104}
   combotext: {fileID: 1481629461}
 --- !u!1 &1481629459
 GameObject:
@@ -1457,7 +1457,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1481629460
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1665,6 +1665,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   circle: {fileID: 1458186881}
+  circle2: {fileID: 1481629459}
 --- !u!1 &1667450737
 GameObject:
   m_ObjectHideFlags: 0

@@ -7,8 +7,10 @@ public class tap : MonoBehaviour
 {
 
     public GameObject circle;
+    public GameObject circle2;
     public void ontap() {
         circle.SetActive(true);
+        circle2.SetActive(true);
         Destroy(this.gameObject);
     }
 
